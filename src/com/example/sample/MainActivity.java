@@ -15,7 +15,8 @@ public class MainActivity extends ActionBarActivity {
 //		setContentView(new SampleView2(this));
 //		setContentView(new SampleView3(this));
 //		setContentView(new SampleView4(this));
-		setContentView(new SampleView5(this));
+//		setContentView(new SampleView5(this));
+		setContentView(new SampleView6(this));
 	}
 
 	@Override
